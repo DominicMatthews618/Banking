@@ -1,0 +1,251 @@
+﻿customer_id,name,city,zip_code,join_date
+1,John Brooks,Baltimore,21201,2021-02-06
+2,William Chen,Richmond,23220,2023-01-11
+3,Karen Miller,Atlanta,30303,2021-03-05
+4,Alexander Ashley,Miami,33101,2022-07-11
+5,Vanessa Cook,Detroit,48201,2023-07-01
+6,Sarah Wood,Chicago,60601,2022-07-09
+7,Frank Christensen,Charlotte,28202,2022-03-28
+8,Sarah Flores,Los Angeles,90001,2022-05-30
+9,Steven Franklin,Nashville,37201,2023-04-29
+10,Alan Pitts,New York,10001,2022-08-22
+11,Kurt Zimmerman,Newark,07102,2023-02-14
+12,Morgan Russell,Columbus,43215,2021-08-21
+13,Brittany Summers,Houston,77002,2021-01-04
+14,James Campbell,Philadelphia,19103,2023-11-04
+15,Kirk Hernandez,New Orleans,70112,2024-03-06
+16,Natalie Perry,Phoenix,85004,2024-03-09
+17,Deanna Mckenzie,Las Vegas,89101,2022-07-08
+18,Courtney Campbell,Milwaukee,53202,2021-04-24
+19,Andrea Vega,Washington,20001,2021-10-05
+20,Zachary Harris,Boston,02108,2021-10-06
+21,Karen Wiley,Baltimore,21201,2022-07-25
+22,Mr. Theodore Ball Jr.,Richmond,23220,2021-12-22
+23,Judy Young,Atlanta,30303,2021-11-18
+24,Deborah Walker,Miami,33101,2023-08-08
+25,Heather Davis,Detroit,48201,2024-01-03
+26,Ashley Martin,Chicago,60601,2023-04-16
+27,Thomas Grimes,Charlotte,28202,2022-05-30
+28,William Garza,Los Angeles,90001,2021-07-16
+29,Lucas Joseph,Nashville,37201,2024-05-15
+30,Nathan Delgado,New York,10001,2021-01-24
+31,Steven Ruiz,Newark,07102,2022-12-30
+32,William Burnett,Columbus,43215,2022-08-21
+33,Kevin Morgan,Houston,77002,2023-06-05
+34,Jeffrey Jones,Philadelphia,19103,2023-12-20
+35,Scott Gutierrez,New Orleans,70112,2021-01-02
+36,Ashley Johnson,Phoenix,85004,2021-07-15
+37,Caitlin Smith,Las Vegas,89101,2022-10-05
+38,James Allen,Milwaukee,53202,2023-12-01
+39,Andrew Blackwell,Washington,20001,2024-03-20
+40,Nicole Obrien,Boston,02108,2022-01-31
+41,Kent Smith,Baltimore,21201,2024-02-01
+42,David Stevens,Richmond,23220,2022-05-27
+43,Kyle Johnson,Atlanta,30303,2022-04-20
+44,Kathleen Holmes,Miami,33101,2021-08-17
+45,Samantha Mason,Detroit,48201,2023-01-10
+46,Martin Adams,Chicago,60601,2020-09-25
+47,Adam Rodriguez,Charlotte,28202,2023-08-10
+48,Roberto Miller,Los Angeles,90001,2021-03-30
+49,Jacob Shaw,Nashville,37201,2023-11-16
+50,Cheryl Fox,New York,10001,2023-03-06
+51,Joshua Alvarado,Philadelphia,19103,2021-02-14
+52,Scott Davis,Orlando,33101,2022-10-19
+53,Stephanie Williams,Baltimore,21201,2024-01-15
+54,Mario Moss,New York,10001,2021-06-01
+55,Diana Sanchez,Miami,33101,2021-05-22
+56,Paula Lopez,Richmond,23220,2022-01-27
+57,Peggy Jones,Charlotte,28202,2021-07-07
+58,Janet Johnson,Detroit,48201,2023-06-30
+59,Anthony Harris,Chicago,60601,2023-08-28
+60,William Harrison,Houston,77002,2021-05-07
+61,Travis Wilson,Washington,20001,2023-10-06
+62,Jennifer Le,Boston,02108,2020-10-25
+63,Michele Short,Phoenix,85004,2020-11-19
+64,Mr. Andrew Brown,Las Vegas,89101,2023-04-23
+65,Breanna James,Milwaukee,53202,2022-05-11
+66,Caitlin Montes,New Orleans,70112,2022-12-24
+67,Stephanie Reed,Atlanta,30303,2021-02-24
+68,Michelle Mason,Baltimore,21201,2020-10-29
+69,Steven Leonard,Philadelphia,19103,2021-11-15
+70,William Velasquez,New York,10001,2022-02-08
+71,Christopher Glover,Miami,33101,2022-12-13
+72,David Castaneda,Richmond,23220,2020-12-25
+73,Colleen Gonzales,Charlotte,28202,2023-08-25
+74,Danielle Martin,Detroit,48201,2023-12-08
+75,Valerie Walker,Chicago,60601,2023-06-20
+76,Krista Cox,Houston,77002,2021-10-22
+77,Julie Hernandez,Washington,20001,2023-11-22
+78,Justin Taylor,Boston,02108,2021-01-11
+79,Erica Randolph,Phoenix,85004,2022-03-20
+80,Susan Owen,Las Vegas,89101,2023-09-04
+81,Nicole Gallegos,Milwaukee,53202,2023-01-15
+82,Stephanie Espinoza,New Orleans,70112,2022-05-26
+83,Mr. David Ryan,Atlanta,30303,2022-11-15
+84,Brady May,Baltimore,21201,2022-09-10
+85,Ricky Walker,Philadelphia,19103,2022-05-10
+86,Timothy Smith,New York,10001,2020-12-27
+87,Brenda Pacheco,Miami,33101,2022-11-08
+88,Michelle Bruce,Richmond,23220,2023-07-28
+89,Lucas Nelson,Charlotte,28202,2020-10-07
+90,Katherine Lane,Detroit,48201,2024-03-12
+91,Cynthia Valenzuela,Chicago,60601,2020-08-29
+92,Anthony Warner,Houston,77002,2022-11-09
+93,Lynn Hall,Washington,20001,2022-12-29
+94,Janice Christensen,Boston,02108,2021-07-28
+95,Jessica Peters,Phoenix,85004,2020-07-30
+96,Andrea Murphy,Las Vegas,89101,2022-09-15
+97,Jamie Green,Milwaukee,53202,2022-02-20
+98,Dr. Alicia Morrison,New Orleans,70112,2021-09-27
+99,Michael Stein,Atlanta,30303,2021-05-15
+100,Jeffrey Kelley,Baltimore,21201,2022-04-11
+101,Jordan Swanson,Philadelphia,19103,2021-05-28
+102,Debra Collins,New York,10001,2023-09-18
+103,Gary Roberts,Baltimore,21201,2020-09-05
+104,Joshua Bass,Miami,33101,2024-06-01
+105,Steven Knight,Richmond,23220,2021-02-22
+106,Anthony Clark,Orlando,33101,2023-02-13
+107,Angela Crawford,Charlotte,28202,2021-03-23
+108,Brian Pruitt,Detroit,48201,2023-04-07
+109,Stephen Mejia,Chicago,60601,2023-07-03
+110,Ashley Graham,Houston,77002,2022-11-11
+111,Teresa Miranda,Washington,20001,2024-02-03
+112,Tim Garcia,Boston,02108,2021-01-29
+113,Kimberly Jackson,Phoenix,85004,2022-10-07
+114,Henry Robinson,Las Vegas,89101,2020-12-31
+115,Sergio Stafford,Milwaukee,53202,2021-05-20
+116,Steven Young,New Orleans,70112,2023-07-29
+117,Theresa Parker,Atlanta,30303,2024-04-29
+118,Stephanie Hardy,Baltimore,21201,2024-07-02
+119,Miss Pamela Thompson,Philadelphia,19103,2021-08-24
+120,Alexander Moore,New York,10001,2020-10-10
+121,Megan Davies,Miami,33101,2021-12-30
+122,Preston Hunt,Richmond,23220,2020-07-30
+123,Nathan Smith,Charlotte,28202,2022-12-22
+124,Carla Hurley,Detroit,48201,2024-04-16
+125,Emily Saunders,Chicago,60601,2023-09-22
+126,Jessica Friedman,Houston,77002,2021-06-21
+127,Matthew Davis,Washington,20001,2022-03-11
+128,Lisa Byrd,Boston,02108,2021-05-23
+129,Tiffany Boyd,Phoenix,85004,2023-02-04
+130,Susan Lee,Las Vegas,89101,2021-06-07
+131,Patricia Miller,Milwaukee,53202,2021-02-03
+132,Elizabeth Baker,New Orleans,70112,2021-02-11
+133,Morgan Mills,Atlanta,30303,2021-07-01
+134,Elizabeth Rodgers,Baltimore,21201,2020-08-20
+135,Angel Johnson,Philadelphia,19103,2022-07-13
+136,Frank Rasmussen,New York,10001,2021-10-15
+137,Wendy Henderson,Miami,33101,2024-06-28
+138,Tony Anderson,Richmond,23220,2022-12-18
+139,Stephanie Brown,Charlotte,28202,2022-01-19
+140,Sandra Myers,Detroit,48201,2022-06-18
+141,Jeffrey Lawrence,Chicago,60601,2022-12-16
+142,Mary Gilmore,Houston,77002,2020-11-05
+143,Margaret Mccall,Washington,20001,2020-11-08
+144,Michael Roberts,Boston,02108,2024-05-10
+145,Mary Espinoza,Phoenix,85004,2023-02-08
+146,Steven Jones,Las Vegas,89101,2021-06-10
+147,Dawn Matthews,Milwaukee,53202,2022-08-16
+148,Michele Wood,New Orleans,70112,2023-08-25
+149,Joshua Gibson,Atlanta,30303,2022-04-08
+150,Linda Carey,Baltimore,21201,2022-11-15
+151,Rebecca Perez,Philadelphia,19103,2022-11-04
+152,Emma Adams,New York,10001,2021-06-29
+153,Daniel Odonnell,Baltimore,21201,2022-11-21
+154,Ms. Margaret Torres,Miami,33101,2022-06-25
+155,Jody Gallagher,Richmond,23220,2022-07-11
+156,Susan Harrell,Orlando,33101,2024-02-04
+157,Wayne Sanchez,Charlotte,28202,2022-01-23
+158,Alexander Lawson,Detroit,48201,2021-11-27
+159,Amanda Montgomery,Chicago,60601,2020-08-26
+160,Dawn Russo,Houston,77002,2021-08-22
+161,Adrian Bishop,Washington,20001,2021-11-10
+162,Theodore Petersen,Boston,02108,2021-01-13
+163,Lisa Moore,Phoenix,85004,2021-10-26
+164,Erica Smith,Las Vegas,89101,2021-05-19
+165,Destiny Oconnell,Milwaukee,53202,2021-02-11
+166,Natalie Smith,New Orleans,70112,2023-05-26
+167,Jordan Moore,Atlanta,30303,2021-05-15
+168,Thomas Williams,Baltimore,21201,2023-08-07
+169,Hannah Richards,Philadelphia,19103,2023-01-25
+170,Jessica Fisher,New York,10001,2023-03-16
+171,Gail Lopez,Miami,33101,2022-09-04
+172,Robert Hogan,Richmond,23220,2020-08-27
+173,Mrs. Mary Davis,Orlando,33101,2020-09-25
+174,Andrew Garcia,Charlotte,28202,2024-04-10
+175,Sheila Whitaker,Detroit,48201,2022-07-31
+176,Ryan Smith,Chicago,60601,2022-03-30
+177,Christine Salazar,Houston,77002,2023-09-17
+178,Patrick Gardner,Washington,20001,2023-12-12
+179,Heather Nash,Boston,02108,2023-05-03
+180,Nicholas Andrews,Phoenix,85004,2021-12-06
+181,Melissa Robbins,Las Vegas,89101,2022-06-09
+182,Jesse Jones,Milwaukee,53202,2023-03-12
+183,Tracy Adams,New Orleans,70112,2023-12-12
+184,Joel Khan,Atlanta,30303,2021-11-16
+185,Jordan Schultz,Baltimore,21201,2021-12-27
+186,Kevin Brown,Philadelphia,19103,2022-12-04
+187,Sandra Wade,New York,10001,2023-04-22
+188,Ashley Clark,Miami,33101,2020-07-14
+189,Robert Hurst PhD,Richmond,23220,2023-08-18
+190,Victoria Burton,Charlotte,28202,2023-05-09
+191,Kelly Williams,Detroit,48201,2024-04-27
+192,Jared Gomez,Chicago,60601,2023-04-01
+193,Courtney Wade,Houston,77002,2021-11-04
+194,Michael Curry,Washington,20001,2024-07-01
+195,Holly Miller,Boston,02108,2023-10-28
+196,Kristy Harris,Phoenix,85004,2021-07-19
+197,Nicholas Beltran,Las Vegas,89101,2021-09-07
+198,Michael Wilcox,Milwaukee,53202,2022-04-05
+199,Jonathan Ramirez,New Orleans,70112,2023-04-10
+200,Barbara Salazar,Atlanta,30303,2024-01-29
+201,Charles Ortiz,Baltimore,21201,2022-11-07
+202,Scott Harris,Philadelphia,19103,2021-04-19
+203,Connie Quinn,New York,10001,2021-01-23
+204,Stephanie Webb,Miami,33101,2022-02-21
+205,Monica Carter,Richmond,23220,2023-03-08
+206,Daniel Gonzalez,Orlando,33101,2022-05-08
+207,Heather Ramirez,Charlotte,28202,2024-03-15
+208,Aaron Owens,Detroit,48201,2023-01-23
+209,Charles Martin,Chicago,60601,2023-03-31
+210,Eric Davis,Houston,77002,2022-10-24
+211,Antonio Watson,Washington,20001,2021-06-08
+212,Krista English,Boston,02108,2022-02-11
+213,Jamie Fowler,Phoenix,85004,2020-12-05
+214,Joshua Torres,Las Vegas,89101,2023-03-17
+215,Jason Bolton,Milwaukee,53202,2023-05-15
+216,Jeremy Duffy,New Orleans,70112,2023-02-11
+217,Mark Chung,Atlanta,30303,2021-07-26
+218,Barbara Schmidt,Baltimore,21201,2021-06-19
+219,Dana Rivera,Philadelphia,19103,2023-11-18
+220,Catherine Valencia,New York,10001,2023-01-21
+221,Alejandro Hawkins,Miami,33101,2021-05-23
+222,Bryan Rogers,Richmond,23220,2020-11-04
+223,Eric Pierce,Orlando,33101,2024-05-28
+224,Tammy Wells,Charlotte,28202,2023-07-19
+225,Brad Long,Detroit,48201,2022-01-08
+226,Jeffrey Parker,Chicago,60601,2022-02-17
+227,Bruce Mcgee,Houston,77002,2023-02-09
+228,Craig Mueller,Washington,20001,2023-10-22
+229,Jesse Zamora,Boston,02108,2022-05-07
+230,Kristen Cole,Phoenix,85004,2020-07-14
+231,Christopher Burke,Las Vegas,89101,2021-12-22
+232,Arthur Gonzalez,Milwaukee,53202,2021-10-05
+233,Jessica Kirby,New Orleans,70112,2023-09-21
+234,Christopher Morris,Atlanta,30303,2020-11-25
+235,Angela Long,Baltimore,21201,2020-10-13
+236,Jessica Williamson,Philadelphia,19103,2024-02-08
+237,Catherine Wilson,New York,10001,2021-12-21
+238,Charles Smith,Miami,33101,2020-09-18
+239,Lorraine King,Richmond,23220,2024-06-15
+240,Mackenzie Walsh,Charlotte,28202,2022-06-04
+241,Rachel Robertson,Detroit,48201,2022-05-12
+242,Kevin Henderson,Chicago,60601,2023-03-28
+243,Duane Williams,Houston,77002,2023-11-06
+244,Justin Schmidt MD,Washington,20001,2021-03-30
+245,Rebecca Hill,Boston,02108,2020-08-07
+246,Thomas Peck,Phoenix,85004,2024-04-09
+247,Samantha Perkins,Las Vegas,89101,2023-08-16
+248,Amber Miles,Milwaukee,53202,2021-01-24
+249,Olivia Austin,New Orleans,70112,2020-08-18
+250,Carolyn Smith,Atlanta,30303,2021-03-19
